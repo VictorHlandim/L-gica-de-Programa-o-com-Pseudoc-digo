@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-    
+    //Exibir os extremos de um vetor, seu maior valor e seu menor valor.
     inteiro vetor[] = {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}, maiorValor, menorValor
 
      para(inteiro i = 0; i < 15; i++){
